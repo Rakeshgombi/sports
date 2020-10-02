@@ -1,2 +1,2 @@
 # sports
-This is a final assignment foe Wd4E
+This is a final assignment for Wd4E
